@@ -1,11 +1,28 @@
+html {
+  font-family: "Abhaya Libre", serif;
+}
+
 .masthead {
+  background-color: #423ca3;
+  color: #fff;
 
 }
 
 .logo {
-  
+  text-align: center;
 }
 
 .nav {
+  text-align: center;
+  display: inline-block;
+}
 
+.icon-label {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn {
+  background-color: #15114c;
+  border: none;
 }
