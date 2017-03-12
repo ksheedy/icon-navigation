@@ -26,3 +26,18 @@ html {
   background-color: #15114c;
   border: none;
 }
+
+.btn:hover {
+  background-color: #fff;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .logo {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+}
